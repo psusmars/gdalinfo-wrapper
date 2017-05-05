@@ -1,3 +1,7 @@
+# Version
+require 'gdalinfo-wrapper/version'
+
+# Classes
 require 'gdalinfo-wrapper/band'
 require 'gdalinfo-wrapper/point'
 require 'gdalinfo-wrapper/util'
